@@ -25,6 +25,10 @@ Institut Saint-Louis, Bruxelles — Diplôme d’humanité secondaire cycle inf�
 _2001-2008_
 Parcours Science et Langues
 
+**Hobbies**
+
+Le jeu video, l'informatique_(duh)_, pour une raison étrange la pétanque, les jeux vidéos _(encore?!)_, la cuisine et le café de **qua-li-té** 
+
 [EFPME](https://www.efp.be/), Bruxelles — Diplôme de technicien de spectacle.
 _2009-2012_
 Apprentissage en alternance des techniques du spectacle vivant.
