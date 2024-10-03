@@ -8,10 +8,9 @@ _2009-2012_
 
 [Step In Live](https://stepinlive.be/fr/bienvenue), Belgique — Technicien de Spectacle
 _2012-2016/ 2018-2020_
-
 Technicien  pour  concerts/événements/festivals sur l’ensemble du territoire Belge et pays limitrophes
-[G4S](https://www.g4s.com/fr-fr), Bruxelles — Agent d’accueil/Sécurité
 
+[G4S](https://www.g4s.com/fr-fr), Bruxelles — Agent d’accueil/Sécurité
 _2016-2018_
 Agent d’accueil/ sécurité au sein de la Commission européenne et de l’aéroport international de Bruxelles.
 
@@ -25,10 +24,6 @@ Institut Saint-Louis, Bruxelles — Diplôme d’humanité secondaire cycle inf�
 _2001-2008_
 Parcours Science et Langues
 
-**Hobbies**
-
-Le jeu video, l'informatique_(duh)_, pour une raison étrange la pétanque, les jeux vidéos _(encore?!)_, la cuisine et le café de **qua-li-té** 
-
 [EFPME](https://www.efp.be/), Bruxelles — Diplôme de technicien de spectacle.
 _2009-2012_
 Apprentissage en alternance des techniques du spectacle vivant.
@@ -36,3 +31,9 @@ Apprentissage en alternance des techniques du spectacle vivant.
 G4S Training, Asse, Belgique — Agent de sécurité/équipier de première intervention
 _2016_
 Formation à la sécurité d’un bâtiment. Premier secours/ incendie/ évacuation de bâtiment.
+
+
+**Hobbies**
+
+Le jeu video, l'informatique_(duh)_, pour une raison étrange la pétanque, les jeux vidéos _(encore?!)_, la cuisine et le café de **qua-li-té** 
+
