@@ -1,5 +1,6 @@
 Bienvenue sur mon CV, je suis **Gaetan Bergmans** je suis ~~Technicien de spectacle~~ ah non, je recommence.
-J'apprends un nouveau job, adminsys et réseau cloud. Il y aura bientôt de nouvelle ligne sur cette page!
+J'apprends un nouveau job, adminsys et réseau cloud. Il y aura bientôt de nouvelle ligne sur cette page! 
+_P.S.:_ La photo de moi c'est un Beluga **(don't panic!)** c'est normal, j'en ai pas sous la main, ca vient!
 
 **EXPÉRIENCE**
 
