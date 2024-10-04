@@ -37,5 +37,5 @@ Formation à la sécurité d’un bâtiment. Premier secours/ incendie/ évacuat
 
 **Hobbies**
 
-Le jeu video, l'informatique_(duh)_, pour une raison étrange la pétanque, les jeux vidéos _(encore?!)_, la cuisine et le café de **qua-li-té** 
+Le jeu video, l'informatique _(duh)_, pour une raison étrange la pétanque, les jeux vidéos _(encore?!)_, la cuisine et le café de **qua-li-té** 
 
