@@ -1,4 +1,4 @@
-![Ma photo]()
+![Ma photo](https://github.com/Hillman-gaetan/CV/blob/main/Ressources/Photo%20crop.jpg)
 
 Bienvenue sur mon CV, je suis **Gaetan Bergmans** je suis ~~Technicien de spectacle~~ ah non, je recommence.
 J'apprends un nouveau job, adminsys/réseau cloud et je passe la Certif de Scrum Master. Il y aura bientôt de nouvelles lignes sur cette page! 
@@ -11,7 +11,7 @@ Théâtre divers, Bruxelles — Régisseur lumière
 
 
 [Step In Live](https://stepinlive.be/fr/bienvenue), Belgique — Technicien de Spectacle/ Crew Chief
- _2012-2016/ 2018-2022_     
+ _2012-2022_     
 
 
 [AMG-Féchoz](https://amg-fechoz.com/), Paris — Technicien de Maintenance/Responsable commercial
