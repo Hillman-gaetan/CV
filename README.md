@@ -1,43 +1,38 @@
-![Ma photo d'un beluga](https://raw.githubusercontent.com/Hillman-gaetan/CV/refs/heads/main/Beluga%20HUB.jpg)
+![Ma photo](https://github.com/Hillman-gaetan/CV/blob/main/Ressources/MeMyself&I.jpg)
 
 Bienvenue sur mon CV, je suis **Gaetan Bergmans** je suis ~~Technicien de spectacle~~ ah non, je recommence.
-J'apprends un nouveau job, adminsys et réseau cloud. Il y aura bientôt de nouvelle ligne sur cette page! 
+J'apprends un nouveau job, adminsys/réseau cloud et je passe la Certif de Scrum Master. Il y aura bientôt de nouvelles lignes sur cette page! 
 
-_P.S.:_ La photo de moi c'est un Beluga **(don't panic!)** c'est normal, j'en ai pas sous la main, ca vient!
 
 **EXPÉRIENCE**
 
-Théâtre divers, Bruxelles — Régisseur
+Théâtre divers, Bruxelles — Régisseur lumière
  _2009-2012_
 
-[Step In Live](https://stepinlive.be/fr/bienvenue), Belgique — Technicien de Spectacle
- _2012-2016/ 2018-2020_     
-Technicien  pour  concerts/événements/festivals sur l’ensemble du territoire Belge et pays limitrophes
 
-[G4S](https://www.g4s.com/fr-fr), Bruxelles — Agent d’accueil/Sécurité
- _2016-2018_           
-Agent d’accueil/ sécurité au sein de la Commission européenne et de l’aéroport international de Bruxelles.
+[Step In Live](https://stepinlive.be/fr/bienvenue), Belgique — Technicien de Spectacle/ Crew Chief
+ _2012-2016/ 2018-2022_     
+
 
 [AMG-Féchoz](https://amg-fechoz.com/), Paris — Technicien de Maintenance/Responsable commercial
  _2022-2023_         
 Technicien de maintenance en machinerie de spectacle et responsable vente des contrats de maintenance sur l’Ouest de la France.
 
+
 **FORMATION**
 
-Institut Saint-Louis, Bruxelles — Diplôme d’humanité secondaire cycle inférieur.
+Institut Saint-Louis, Bruxelles — Diplôme d’humanité secondaire cycle inférieur. (BAC)
  _2001-2008_      
-Parcours Science et Langues
 
-[EFPME](https://www.efp.be/), Bruxelles — Diplôme de technicien de spectacle.
+
+[EFPME](https://www.efp.be/), Bruxelles — Diplôme de technicien de spectacle/Chef d'entreprise. (BAC+2)
  _2009-2012_           
-Apprentissage en alternance des techniques du spectacle vivant.
 
-G4S Training, Asse, Belgique — Agent de sécurité/équipier de première intervention
- _2016_         
-Formation à la sécurité d’un bâtiment. Premier secours/ incendie/ évacuation de bâtiment.
 
+[Wild Code School](https://www.wildcodeschool.com/fr-fr/), Nantes - Bootcamp Administrateur système et réseau cloud 
+_2024_
 
 **Hobbies**
 
-Le jeu video, l'informatique _(duh)_, pour une raison étrange la pétanque, les jeux vidéos _(encore?!)_, la cuisine et le café de **qua-li-té** 
+Le jeu video, l'informatique, la cuisine et le café 
 
