@@ -1,6 +1,6 @@
 ![Ma photo](https://github.com/Hillman-gaetan/CV/blob/main/Ressources/Fjord.jpg)
 
-Bienvenue sur mon CV, je suis **Gaetan Bergmans** je suis ~~Technicien de spectacle~~ ah non, je recommence.
+Bienvenue sur mon CV, je suis **Gaetan Bergmans**, j'étais ~~Technicien de spectacle et crew chief~~ ah non, je recommence.
 J'apprends un nouveau job, adminsys/réseau cloud et je passe la Certif de Scrum Master. Il y aura bientôt de nouvelles lignes sur cette page! 
 
 
